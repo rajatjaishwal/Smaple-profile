@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Smaple-profile/static/css/main.e88ff63d.css",
-    "main.js": "/Smaple-profile/static/js/main.e3de6e5b.js",
+    "main.js": "/Smaple-profile/static/js/main.1eb64e2b.js",
     "static/js/488.f03df53e.chunk.js": "/Smaple-profile/static/js/488.f03df53e.chunk.js",
     "index.html": "/Smaple-profile/index.html",
     "main.e88ff63d.css.map": "/Smaple-profile/static/css/main.e88ff63d.css.map",
-    "main.e3de6e5b.js.map": "/Smaple-profile/static/js/main.e3de6e5b.js.map",
+    "main.1eb64e2b.js.map": "/Smaple-profile/static/js/main.1eb64e2b.js.map",
     "488.f03df53e.chunk.js.map": "/Smaple-profile/static/js/488.f03df53e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e88ff63d.css",
-    "static/js/main.e3de6e5b.js"
+    "static/js/main.1eb64e2b.js"
   ]
 }
